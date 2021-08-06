@@ -175,19 +175,33 @@ http://teatube.ltd/tos/
 -----------
 `/setting (/s)`查看房间设置
 
+
 `/garbage (/g) [类型]`垃圾行种类更改
+
 支持以下种类：
+
 `[toj]` 默认
+
 `[huopin]` 火拼交错垃圾行
+
 `[wide [x]]` 指定宽度
+
 `[air]` 空气垃圾行
+
 `[one]` 固定位置一长洞
+
 `[zigzag [x]]`Z拐弯型（x宽）
+
 `[long [x]]`
+
 `[tspin]`可T-spin型垃圾行
+
 `[tetro]`
+
 `[messy [x]]`
+
 `[1234]`
+
 `[4321]`
 
 注：以上垃圾行种类只能在TOS内使用。TOP内只能用`/huopin [on/off]`
@@ -196,47 +210,68 @@ http://teatube.ltd/tos/
 `/hurryup [数字]`实心行开始增长时间（秒）。0为不启用。
 
 `/score `分数相关
+
 `/score reset`重置当前房间自己分数（下一局结算时生效）（如下一局获胜则下方显示胜场1，否则为0）（2019/7/16追加）
 
+
 `/reset_stats [password]`重置个人数据
+
 `/password_change [old] [new]`更改个人密码
 
 ### 多人房 ###
 `/ai [1-36]` 多人房 AI等级调整
+
 `/rated [on/off]` 道具频道分数开关
 
 ### 单挑房 ###
 `/spec`移动到观战席
+
 `/play`加入到游戏席
+
 `/rated [on/off]` 段位分数变动开关
 
 ### 管理用 ###
 `/announce` 
+
 `/motd`
+
 `/remove_score [mode] [name] [type]`
+
 `/ban`
 
 Staff
 ------
 T008.wojtek（TOP服主）
+
 TTTT.屁（服务端源码/魔改提供/旧版启动器）
-T022.Teatube (服务器提供、日常管理)（茶乃叶）
+
+T022.Teatube (服务器提供、日常管理)
+
 T655.ThTsOd（服务器源码/魔改实现）（zxc）
+
 T665.Tinko（前端/注册系统）
+
 T754.已车二（新版启动器）
+
 T3055.ditoly（启动器日文化）
 
 ## 特别感谢
 
 犬山玉姬老师（犬山たまき先生）（vtb憋〇方块风发起人）@犬山玉姬Official
+
 神乐魅娅小姐（神楽めあさん）（她改变了冲国方块）@神楽Mea_Official
+
 凑阿库娅女士（湊あくあさん）（咩啊最好的挚友）@湊-阿库娅Official
 
 T7023.miya （现研究群群头像，第一个正式加入方块群的虚拟方块人猫）@喵田弥夜Miya
+
 T5901.奈莯naki （可爱又努力的方块上瘾幽灵）@安樱奈莯Naki
-J4649.（狼哥今天挖掘极难过了吗）@呜米
+
+J4649.（崽儿今天挖掘极难过了吗）@呜米
+
 
 前来游玩茶服的你们
+
 因为vtb而对方块感兴趣的单推/DD们
 
 还有，喜欢方块的你w
